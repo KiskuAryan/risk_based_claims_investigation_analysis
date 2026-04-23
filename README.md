@@ -79,4 +79,16 @@ A data-driven approach helps reduce financial losses while optimizing operationa
 
 ##  Dashboard Preview
 
-(Add screenshots here)
+## 📊 Dashboard Preview
+
+### 🔹 Overview
+![Overview](screenshots/overview.png)
+
+### 🔹 Investigation
+![Investigation](screenshots/investigation.png)
+
+### 🔹 Reconciliation
+![Reconciliation](screenshots/reconciliation.png)
+
+### 🔹 Credit Analysis
+![Credit Analysis](screenshots/credit_analysis.png)
